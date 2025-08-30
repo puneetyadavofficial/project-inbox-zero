@@ -1,0 +1,5 @@
+# Secret credential and token files
+credentials.json
+token.json
+openaikey.txt
+googleaikey.txt
