@@ -1,1 +1,1 @@
-my ai email assistant s
+Project Inbox Zero - v1.0
